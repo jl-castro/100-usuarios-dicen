@@ -1,0 +1,9 @@
+<section *ngIf="!isShown" class="answer-default" (click)="showAnswer()">
+  {{ id }}
+</section>
+
+<section *ngIf="isShown" class="answer-shown">
+  <div>{{ guessedAnswers.option }}</div>
+
+  <div class="quantity">{{ guessedAnswers.quantity }}</div>
+</section>

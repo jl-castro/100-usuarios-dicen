@@ -1,0 +1,43 @@
+.main-container {
+  height: 100vh;
+  width: 100vw;
+  background-image: url("../assets/background2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.main-content {
+  display: grid;
+  grid-template-rows: 20vh 80vh;
+
+  .welcome, .start {
+    display: grid;
+    place-items: center;
+  }
+
+  .welcome {
+    color: #ffffff;
+    font-size: 2em;
+  }
+
+  .start {
+    button {
+      font-size: 1.5em;
+      color: #ffffff;
+      border-radius: 8px;
+      height: 100px;
+      width: 200px;
+      background-color: #243642;
+      border: none;
+
+      &:hover {
+        height: 105px;
+        width: 205px;
+        background-color: #314a5a;
+        cursor: pointer;
+        font-weight: bold;
+      }
+    }
+  }
+}

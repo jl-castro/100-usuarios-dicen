@@ -1,0 +1,246 @@
+[
+  {
+    "question": "¿Cuál es el corito que no puede faltar en una ministracion?",
+    "answer": [
+      { "option": "Asi como David Danzaba (Me Gozare)", "quantity": 19 },
+      { "option": "Perder la compostura", "quantity": 6 },
+      { "option": "Con todas mis fuerzas", "quantity": 5 },
+      { "option": "Si buscas adoradores", "quantity": 1 },
+      { "option": "Remolineando", "quantity": 9 },
+      { "option": "Alegre Alegre", "quantity": 1 },
+      { "option": "Corona de Oro", "quantity": 1 },
+      { "option": "La mesa", "quantity": 4 },
+      { "option": "Toma el pandero", "quantity": 1 },
+      { "option": "Rosa de mi Jardin", "quantity": 1 },
+      { "option": "Heme Aqui", "quantity": 3 },
+      { "option": "Con todo mi corazon", "quantity": 6 },
+      { "option": "Dejalo que te toque", "quantity": 1 },
+      { "option": "El señor es mi rey", "quantity": 1 },
+      { "option": "Fiesta en el desierto", "quantity": 1 },
+      { "option": "Tu amor por mi", "quantity": 1 },
+      { "option": "Soy tuyo mi Dios", "quantity": 1 },
+      { "option": "Soy tuyo mi Dios", "quantity": 1 },
+      { "option": "Si tuvieras fe", "quantity": 1 },
+      { "option": "El me ha vestido de alegria", "quantity": 2 },
+      { "option": "Bueno es Dios", "quantity": 1 }
+    ]
+  },
+  {
+    "question": "¿Cual es el pastor nacional mas conocido (Escuchado)?",
+    "answer": [
+      { "option": "Mario Mujica", "quantity": 9 },
+      { "option": "Edwin", "quantity": 1 },
+      { "option": "Luis Guachalla", "quantity": 4 },
+      { "option": "Moises Velazco", "quantity": 1 },
+      { "option": "David Mujica", "quantity": 2 },
+      { "option": "Toto Salcedo", "quantity": 29 },
+      { "option": "Abel Paredes", "quantity": 2 },
+      { "option": "Cipriano Fuentes", "quantity": 1 },
+      { "option": "Silvia Salcedo", "quantity": 3 },
+      { "option": "David Daymon", "quantity": 3 },
+      { "option": "Camilo Quispe", "quantity": 2 },
+      { "option": "Ricardo Claure", "quantity": 3 },
+      { "option": "Raymundo Ramos", "quantity": 1 },
+      { "option": "Juan Bosques", "quantity": 1 },
+      { "option": "Waldo Mamani", "quantity": 2 },
+      { "option": "William Sanjines", "quantity": 1 },
+      { "option": "Marco Velazco", "quantity": 1 }
+    ]
+  },
+  {
+    "question": "¿Cual es el tema que mas se predica en la Iglesia?",
+    "answer": [
+      { "option": "Promesas de Dios", "quantity": 2 },
+      { "option": "El Perdon", "quantity": 21 },
+      { "option": "Antiguo Testamento", "quantity": 1 },
+      { "option": "El Amor", "quantity": 5 },
+      { "option": "Diezmo y Ofrenda", "quantity": 7 },
+      { "option": "Espiritu Santo", "quantity": 1 },
+      { "option": "La Obediencia", "quantity": 2 },
+      { "option": "La Fe", "quantity": 15 },
+      { "option": "El Rapto / La venida de Cristo", "quantity": 3 },
+      { "option": "El Pecado", "quantity": 1 },
+      { "option": "Las tentaciones", "quantity": 1 },
+      { "option": "La Salvacion", "quantity": 6 },
+      { "option": "El Amor de Dios", "quantity": 1 },
+      { "option": "Proposito de Dios", "quantity": 1 }
+    ]
+  },
+  {
+    "question": "¿Cual es el personaje biblico mas conocido exceptuando a Jesus?",
+    "answer": [
+      { "option": "Moises", "quantity": 15 },
+      { "option": "Josue", "quantity": 1 },
+      { "option": "Judas", "quantity": 3 },
+      { "option": "David", "quantity": 13 },
+      { "option": "Abraham", "quantity": 7 },
+      { "option": "Noe", "quantity": 4 },
+      { "option": "Jacob", "quantity": 4 },
+      { "option": "Pablo", "quantity": 7 },
+      { "option": "Jose", "quantity": 1 },
+      { "option": "Elias", "quantity": 2 },
+      { "option": "Sanson", "quantity": 2 },
+      { "option": "Pedro", "quantity": 1 },
+      { "option": "Felipe", "quantity": 1 },
+      { "option": "Israel", "quantity": 2 },
+      { "option": "Salomon", "quantity": 2 },
+      { "option": "Juan", "quantity": 2 },
+      { "option": "Nehemias", "quantity": 1 },
+      { "option": "Adan", "quantity": 1 },
+      { "option": "Mateo", "quantity": 1 }
+    ]
+  },
+  {
+    "question": "¿Cual es el nombre biblico mas comun que los padres ponen a sus hijos?",
+    "answer": [
+      { "option": "Josue", "quantity": 1 },
+      { "option": "Mateo", "quantity": 6 },
+      { "option": "Daniel", "quantity": 27 },
+      { "option": "Juan", "quantity": 2 },
+      { "option": "Maria", "quantity": 3 },
+      { "option": "Israel", "quantity": 1 },
+      { "option": "Pedro", "quantity": 1 },
+      { "option": "Caleb", "quantity": 2 },
+      { "option": "Pablo", "quantity": 5 },
+      { "option": "Esther", "quantity": 4 },
+      { "option": "Juan", "quantity": 3 },
+      { "option": "Elias", "quantity": 1 },
+      { "option": "Jose", "quantity": 6 },
+      { "option": "Jesus", "quantity": 2 },
+      { "option": "Genesis", "quantity": 1 },
+      { "option": "Abdias", "quantity": 1 },
+      { "option": "Marcos", "quantity": 1 },
+      { "option": "David", "quantity": 1 }
+    ]
+  },
+  {
+    "question": "¿Cual es la version biblica mas usada actualmente?",
+    "answer": [
+      { "option": "Dios Habla Hoy (DHH)", "quantity": 9 },
+      { "option": "Traduccion Lenguaje Actual (TLA)", "quantity": 4 },
+      { "option": "Reyna Valera 1960", "quantity": 47 },
+      { "option": "Nueva Traduccion Viviente (NTV)", "quantity": 7 }
+    ]
+  },
+  {
+    "question": "¿Cual es la parabola mas conocida?",
+    "answer": [
+      { "option": "El Sembrador", "quantity": 21 },
+      { "option": "El Buen Samaritano", "quantity": 10 },
+      { "option": "El Hijo Prodigo", "quantity": 17 },
+      { "option": "La Oveja Perdida", "quantity": 14 },
+      { "option": "EL Trigo y la Cizaña", "quantity": 2 },
+      { "option": "Las 10 Virgenes", "quantity": 3 },
+      { "option": "Los Talentos", "quantity": 2 }
+    ]
+  },
+  {
+    "question": "¿Cuál es el versículo más popular?",
+    "answer": [
+      { "option": "Josué 1:9", "quantity": 8 },
+      { "option": "Juan 3:16", "quantity": 25 },
+      { "option": "Filipenses 4:13", "quantity": 10 },
+      { "option": "Jeremías 33:3", "quantity": 6 },
+      { "option": "Salmos 23", "quantity": 17 },
+      { "option": "Santiago 1:2", "quantity": 2 },
+      { "option": "Salmos 119:105", "quantity": 4 },
+      { "option": "Isaías 41:10", "quantity": 5 },
+      { "option": "Éxodo 14:14", "quantity": 4 },
+      { "option": "Génesis 1:1", "quantity": 3 },
+      { "option": "Salmos 36:9", "quantity": 3 },
+      { "option": "Mateo 22:39", "quantity": 5 },
+      { "option": "Romanos 8:28", "quantity": 8 }
+    ]
+  },
+  {
+    "question": "¿Cual es el animal mas mencionado en la Biblia?",
+    "answer": [
+      { "option": "El Burro", "quantity": 8 },
+      { "option": "Cordero / Oveja", "quantity": 34 },
+      { "option": "Leon", "quantity": 20 },
+      { "option": "Paloma", "quantity": 8 },
+      { "option": "Vaca", "quantity": 1 },
+      { "option": "Cabra", "quantity": 1 },
+      { "option": "Aguila", "quantity": 1 }
+    ]
+  },
+  {
+    "question": "¿Cual es el milagro de Jesus mas conocido?",
+    "answer": [
+      { "option": "Los Panes y los Peces", "quantity": 17 },
+      { "option": "La mujer con flujo de sangre", "quantity": 4 },
+      { "option": "Las Bodas de Canaan", "quantity": 9 },
+      { "option": "Resurreccion de Lazaro", "quantity": 15 },
+      { "option": "Ciego con barro en los ojos", "quantity": 7 },
+      { "option": "El Paralitico", "quantity": 5 },
+      { "option": "La Hija de Jairo", "quantity": 3 },
+      { "option": "El Leproso", "quantity": 4 }
+    ]
+  },
+  {
+    "question": "¿Cual es el libro de la Biblia que mas se lee?",
+    "answer": [
+      { "option": "Salmos", "quantity": 34 },
+      { "option": "Proverbios", "quantity": 14 },
+      { "option": "Mateo", "quantity": 9 },
+      { "option": "Apocalipsis", "quantity": 7 },
+      { "option": "Jeremias", "quantity": 1 },
+      { "option": "Isaias", "quantity": 2 },
+      { "option": "Exodo", "quantity": 1 },
+      { "option": "Josue", "quantity": 1 },
+      { "option": "Marcos", "quantity": 1 },
+      { "option": "Genesis", "quantity": 1 },
+      { "option": "Eclesiastes", "quantity": 1 }
+    ]
+  },
+  {
+    "question": "¿Cuales son las peliculas cristianas mas conocidas?",
+    "answer": [
+      { "option": "La Biblia", "quantity": 1 },
+      { "option": "Josue", "quantity": 1 },
+      { "option": "Dios no esta muerto", "quantity": 9 },
+      { "option": "Milagros del cielo", "quantity": 2 },
+      { "option": "La cruz y el puñal", "quantity": 4 },
+      { "option": "Buscando una señal", "quantity": 1 },
+      { "option": "La cruz", "quantity": 1 },
+      { "option": "Cicatrices", "quantity": 15 },
+      { "option": "El Rapto", "quantity": 3 },
+      { "option": "La vida de Jesus", "quantity": 2 },
+      { "option": "La Cabaña", "quantity": 9 },
+      { "option": "La Pasion de Cristo", "quantity": 8 },
+      { "option": "Moises", "quantity": 1 },
+      { "option": "Apocalipsis", "quantity": 1 },
+      { "option": "A prueba de fuego", "quantity": 2 },
+      { "option": "Hasta el ultimo hombre", "quantity": 6 },
+      { "option": "Hades", "quantity": 3 }
+    ]
+  },
+  {
+    "question": "¿Grupo musical cristiano mas conocido?",
+    "answer": [
+      { "option": "Montesanto", "quantity": 6 },
+      { "option": "Genesis Campos", "quantity": 2 },
+      { "option": "Barak", "quantity": 7 },
+      { "option": "Ebenezer", "quantity": 3 },
+      { "option": "Miel san Marcos", "quantity": 11 },
+      { "option": "Triple Uncion", "quantity": 1 },
+      { "option": "John Eli", "quantity": 2 },
+      { "option": "Poder de la Alabanza", "quantity": 1 },
+      { "option": "Jireh", "quantity": 1 },
+      { "option": "Marcos Witt", "quantity": 4 },
+      { "option": "Comunidad Cristiana de Fe (CCF)", "quantity": 9 },
+      { "option": "Katriel", "quantity": 1 },
+      { "option": "Vaes", "quantity": 1 },
+      { "option": "Rojo", "quantity": 4 },
+      { "option": "Generacion 12", "quantity": 8 },
+      { "option": "Alex Campos", "quantity": 1 },
+      { "option": "Inpiracion", "quantity": 1 },
+      { "option": "New Wine", "quantity": 1 },
+      { "option": "Petra", "quantity": 1 },
+      { "option": "Montreal", "quantity": 1 },
+      { "option": "Pablo Olivares", "quantity": 1 },
+      { "option": "Alex Zurdo", "quantity": 1 },
+      { "option": "Redimi2", "quantity": 1 }
+    ]
+  }
+]

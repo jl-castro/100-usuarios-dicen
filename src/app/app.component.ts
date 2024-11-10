@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = '100-users-dicen';
+  gameStarted = false;
+
+  startGame(): void {
+    this.gameStarted = true;
+  }
 }

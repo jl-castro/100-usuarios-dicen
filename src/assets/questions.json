@@ -1,0 +1,371 @@
+[
+  {
+    "question": "¿Cuál es el corito que no puede faltar en una ministración?",
+    "answer": [
+      {
+        "option": "Así como David Danzaba (Me Gozaré)",
+        "quantity": 30
+      },
+      {
+        "option": "Remolineando",
+        "quantity": 15
+      },
+      {
+        "option": "Perder la compostura",
+        "quantity": 10
+      },
+      {
+        "option": "Con todo mi corazón",
+        "quantity": 10
+      },
+      {
+        "option": "Alegre Alegre",
+        "quantity": 7
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el pastor nacional más conocido (Escuchado)?",
+    "answer": [
+      {
+        "option": "Toto Salcedo",
+        "quantity": 35
+      },
+      {
+        "option": "Mario Mujica",
+        "quantity": 12
+      },
+      {
+        "option": "Luis Guachalla",
+        "quantity": 10
+      },
+      {
+        "option": "Ricardo Claure",
+        "quantity": 8
+      },
+      {
+        "option": "Silvia Salcedo",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el tema que más se predica en la iglesia?",
+    "answer": [
+      {
+        "option": "El Perdón",
+        "quantity": 22
+      },
+      {
+        "option": "La Fe",
+        "quantity": 20
+      },
+      {
+        "option": "El Amor de Dios",
+        "quantity": 15
+      },
+      {
+        "option": "Diezmo y Ofrenda",
+        "quantity": 10
+      },
+      {
+        "option": "La Salvación",
+        "quantity": 10
+      },
+      {
+        "option": "El Rapto / La venida de Cristo",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el personaje bíblico más conocido exceptuando a Jesús?",
+    "answer": [
+      {
+        "option": "Moisés",
+        "quantity": 20
+      },
+      {
+        "option": "David",
+        "quantity": 15
+      },
+      {
+        "option": "Abraham",
+        "quantity": 12
+      },
+      {
+        "option": "Pablo",
+        "quantity": 10
+      },
+      {
+        "option": "Noé",
+        "quantity": 8
+      },
+      {
+        "option": "María",
+        "quantity": 7
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el nombre bíblico más común que los padres ponen a sus hijos?",
+    "answer": [
+      {
+        "option": "Daniel",
+        "quantity": 27
+      },
+      {
+        "option": "David",
+        "quantity": 15
+      },
+      {
+        "option": "Mateo",
+        "quantity": 10
+      },
+      {
+        "option": "José",
+        "quantity": 8
+      },
+      {
+        "option": "Juan",
+        "quantity": 7
+      },
+      {
+        "option": "María",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la versión bíblica más usada actualmente?",
+    "answer": [
+      {
+        "option": "Reina-Valera 1960",
+        "quantity": 47
+      },
+      {
+        "option": "Nueva Versión Internacional (NVI)",
+        "quantity": 20
+      },
+      {
+        "option": "Dios Habla Hoy (DHH)",
+        "quantity": 10
+      },
+      {
+        "option": "Nueva Traducción Viviente (NTV)",
+        "quantity": 10
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es la parábola más conocida?",
+    "answer": [
+      {
+        "option": "El Sembrador",
+        "quantity": 21
+      },
+      {
+        "option": "El Hijo Pródigo",
+        "quantity": 20
+      },
+      {
+        "option": "La Oveja Perdida",
+        "quantity": 17
+      },
+      {
+        "option": "El Buen Samaritano",
+        "quantity": 15
+      },
+      {
+        "option": "Las 10 Vírgenes",
+        "quantity": 8
+      },
+      {
+        "option": "Los Talentos",
+        "quantity": 7
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el versículo más popular?",
+    "answer": [
+      {
+        "option": "Juan 3:16",
+        "quantity": 25
+      },
+      {
+        "option": "Salmos 23",
+        "quantity": 17
+      },
+      {
+        "option": "Filipenses 4:13",
+        "quantity": 10
+      },
+      {
+        "option": "Josué 1:9",
+        "quantity": 8
+      },
+      {
+        "option": "Romanos 8:28",
+        "quantity": 8
+      },
+      {
+        "option": "Jeremías 33:3",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "question": "¿Cual es el animal mas mencionado en la Biblia?",
+    "answer": [
+      {
+        "option": "El Burro",
+        "quantity": 8
+      },
+      {
+        "option": "Cordero / Oveja",
+        "quantity": 34
+      },
+      {
+        "option": "Leon",
+        "quantity": 20
+      },
+      {
+        "option": "Paloma",
+        "quantity": 8
+      },
+      {
+        "option": "Vaca",
+        "quantity": 1
+      },
+      {
+        "option": "Cabra",
+        "quantity": 1
+      },
+      {
+        "option": "Aguila",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el milagro de Jesús más conocido?",
+    "answer": [
+      {
+        "option": "Los Panes y los Peces",
+        "quantity": 20
+      },
+      {
+        "option": "Resurrección de Lázaro",
+        "quantity": 17
+      },
+      {
+        "option": "Las Bodas de Caná",
+        "quantity": 12
+      },
+      {
+        "option": "Ciego con barro en los ojos",
+        "quantity": 10
+      },
+      {
+        "option": "Caminar sobre el agua",
+        "quantity": 10
+      },
+      {
+        "option": "La mujer con flujo de sangre",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el libro de la Biblia que más se lee?",
+    "answer": [
+      {
+        "option": "Salmos",
+        "quantity": 34
+      },
+      {
+        "option": "Proverbios",
+        "quantity": 15
+      },
+      {
+        "option": "Mateo",
+        "quantity": 12
+      },
+      {
+        "option": "Juan",
+        "quantity": 10
+      },
+      {
+        "option": "Apocalipsis",
+        "quantity": 9
+      },
+      {
+        "option": "Génesis",
+        "quantity": 6
+      }
+    ]
+  },
+  {
+    "question": "¿Cuáles son las películas cristianas más conocidas?",
+    "answer": [
+      {
+        "option": "Cicatrices",
+        "quantity": 20
+      },
+      {
+        "option": "Dios No Está Muerto",
+        "quantity": 15
+      },
+      {
+        "option": "La Cabaña",
+        "quantity": 12
+      },
+      {
+        "option": "La Pasión de Cristo",
+        "quantity": 12
+      },
+      {
+        "option": "Hasta el Último Hombre",
+        "quantity": 10
+      },
+      {
+        "option": "La Cruz y el Puñal",
+        "quantity": 8
+      }
+    ]
+  },
+  {
+    "question": "¿Cuál es el grupo musical cristiano más conocido?",
+    "answer": [
+      {
+        "option": "Miel San Marcos",
+        "quantity": 15
+      },
+      {
+        "option": "Generación 12",
+        "quantity": 10
+      },
+      {
+        "option": "Comunidad Cristiana de Fe (CCF)",
+        "quantity": 10
+      },
+      {
+        "option": "Montesanto",
+        "quantity": 8
+      },
+      {
+        "option": "Barak",
+        "quantity": 8
+      },
+      {
+        "option": "Rojo",
+        "quantity": 6
+      },
+      {
+        "option": "Marcos Witt",
+        "quantity": 6
+      }
+    ]
+  }
+]

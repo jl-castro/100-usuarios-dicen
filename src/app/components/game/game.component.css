@@ -1,0 +1,72 @@
+.table {
+  display: grid;
+  grid-template-columns: 1fr 4fr 1fr;
+  height: 100vh;
+}
+
+.score {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.score-card {
+  display: grid;
+  place-items: center;
+  width: 200px;
+  height: 100px;
+  border-radius: 10px;
+  background-color: #219B9D;
+  color: #ffffff;
+  font-size: 5em;
+  font-weight: bold;
+}
+
+.total-score {
+  background-color: #4C1F7A;
+  justify-self: center;
+}
+
+.center-column {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.neon-container {
+  padding: 20px;
+  border: 2px solid #0ff;
+  border-radius: 15px;
+  color: #fff;
+  text-align: center;
+  font-size: 1.2rem;
+  font-family: Arial, sans-serif;
+  box-shadow: 0 0 10px #0ff,
+  0 0 20px #0ff,
+  0 0 30px #0ff,
+  0 0 40px #0ff,
+  0 0 50px #0ff,
+  0 0 60px #0ff;
+  transition: box-shadow 0.3s ease-in-out;
+  min-width: 55vw;
+  min-height: 70vh;
+}
+
+.question-container {
+  margin: 5px;
+  border: 3px solid #219B9D;
+  border-radius: 10px;
+  height: calc(70vh - 10px);
+  padding: 10px;
+}
+
+.show-x-content {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  justify-content: center;
+}

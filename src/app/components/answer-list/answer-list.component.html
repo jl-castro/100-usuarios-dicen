@@ -1,0 +1,11 @@
+<span class="current-question">{{ currentQuestion + 1 }}</span>
+
+<section class="answer-container">
+  <div *ngFor="let answer of questionList[currentQuestion]?.answer; let  i = index">
+    <app-answer [id]="i+1" [guessedAnswers]="answer"></app-answer>
+  </div>
+</section>
+
+<span class="next-question" *ngIf="questionList.length>currentQuestion+1" (click)="nextQuestion()">
+  Next
+</span>

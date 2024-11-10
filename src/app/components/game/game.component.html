@@ -1,0 +1,24 @@
+<article class="table">
+  <section class="score">
+    <div class="score-card" (click)="loadScoreToTeamOne()">{{ teamOneScore }}</div>
+  </section>
+
+  <section class="center-column">
+    <div class="neon-container">
+      <div class="score-card total-score">{{ roundScore }}</div>
+
+      <div class="question-container">
+        <app-answer-list [questionList]="questionList"
+                         (nextQuestionEvent)="listenNextQuestionEvent()"></app-answer-list>
+      </div>
+    </div>
+  </section>
+
+  <section class="score">
+    <div class="score-card" (click)="loadScoreToTeamTwo()">{{ teamTwoScore }}</div>
+  </section>
+</article>
+
+<div class="show-x-content" *ngIf="showNeonX">
+  <app-x *ngFor="let times of neonXInstances"></app-x>
+</div>
